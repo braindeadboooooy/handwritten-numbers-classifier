@@ -1,1 +1,0 @@
-# handwritten-numbers-classifier
